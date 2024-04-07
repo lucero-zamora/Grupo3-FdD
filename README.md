@@ -22,7 +22,8 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <blockquote>
   <p>   Representación fotográfica  principal de los integrantes del grupo N° 03 elaboración propia.  </p>
 </blockquote>
- ## Información del Proyecto
+
+## Información del Proyecto
 ### Tema del [ODS 6](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Agua limpia y saneamiento
 <p align="justify">
 El Perú es un país que presenta una amplia variedad de recursos hídricos, pero a pesar de eso es uno de los que más sufre por escasez de agua en América Latina, por la mala distribución  geográfica de los recursos hídricos, el uso ineficiente de agua y la contaminación del agua .se tiene estimado que para el 2030, si el Perú sigue en  ese rumbo va a sufrir una crisis de agua(1).
