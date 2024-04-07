@@ -29,4 +29,17 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <p align="justify">
 El Perú es un país que presenta una amplia variedad de recursos hídricos, pero a pesar de eso es uno de los que más sufre por escasez de agua en América Latina, por la mala distribución  geográfica de los recursos hídricos, el uso ineficiente de agua y la contaminación del agua .se tiene estimado que para el 2030, si el Perú sigue en  ese rumbo va a sufrir una crisis de agua(1).
 </p>
+### Visión:
+Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  eficiente los servicios de agua potable y saneamiento. Preparando así un equipo capacitado, comprometido acerca del desarrollo integral del entorno ecológico y calidad de vida del ser humano.
+
+### Misión:
+ Implementar un sensor tecnológico  e innovador que contribuya a la distribución equitativa del agua potable para mejorar la calidad de vida de las personas.
+ ## Roles de los miembros
+| Miembro | Rol Desempeñado | GitHub | Correo |
+| :------------: | :------------: | :------------: | :------------: |
+|bertil | Coordinadora General |  |  |
+| maycol | Encargado de Desarrollo Técnico y Prototipado |  |  |
+| brenda | Coordinador de Diseño y Modelado 3D |  |  |
+| anjhy | Encargado de Investigación y Página Web | lucero-zamora| anjhy.zamora@upch.pe |
+|lila| Encargada de la Manufactura Digital | |  |
 
