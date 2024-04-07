@@ -29,6 +29,7 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <p align="justify">
 El Perú es un país que presenta una amplia variedad de recursos hídricos, pero a pesar de eso es uno de los que más sufre por escasez de agua en América Latina, por la mala distribución  geográfica de los recursos hídricos, el uso ineficiente de agua y la contaminación del agua .se tiene estimado que para el 2030, si el Perú sigue en  ese rumbo va a sufrir una crisis de agua(1).
 </p>
+
 ### Visión:
 Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  eficiente los servicios de agua potable y saneamiento. Preparando así un equipo capacitado, comprometido acerca del desarrollo integral del entorno ecológico y calidad de vida del ser humano.
 
