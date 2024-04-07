@@ -12,6 +12,13 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <blockquote>
   <p>David Auris Villegas (20 de Marzo del 2024)  https://elmontonero.pe/columnas/educacion-y-dia-mundial-del-agua/</p>
 </blockquote>
+## ¿Quiénes somos?
+<p align="justify">
+ Somos un grupo de estudiantes entusiastas del curso de fundamentos de diseño, nos unimos con mucho compromiso y dedicación para adquirir conocimientos acerca de los conceptos generales del diseño donde cada uno de nosotros aportará ideas creativas e innovadoras para el proyecto prototipado a realizarse dentro del curso . 
+</p>
 
+<p align="center">
+  <img src="https://github.com/lucero-zamora/Grupo3-FdD/blob/main/FdD/IMAGENES/imagen%20grupal.jpg" width="600" style="margin: auto;">
+</p>
 
   
