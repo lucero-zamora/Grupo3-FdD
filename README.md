@@ -7,7 +7,8 @@
 Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena en el mundo, buscamos desarrollar e implementar soluciones innovadoras y creativas de diferentes  maneras,para así disminuir  una de las problemáticas ambientales que afecta cada vez más al mundo.
 <p align="center">
   <p align="center">
-  <img src="https://stakeholders.com.pe/compromiso-empresarial/rse/conoce-los-proyectos-liderados-por-empresas-para-cuidar-el-agua/jpg." width="750" style="margin: auto;">
+  <img src="![image](https://github.com/lucero-zamora/Grupo3-FdD/assets/150301193/a33624c3-8a36-4b8c-b406-3dfe4100a5c4)
+" width="750" style="margin: auto;">
 </p>>
 
 
