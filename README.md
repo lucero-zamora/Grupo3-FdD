@@ -16,12 +16,15 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <p align="justify">
  Somos un grupo de estudiantes entusiastas del curso de fundamentos de diseño, nos unimos con mucho compromiso y dedicación para adquirir conocimientos acerca de los conceptos generales del diseño donde cada uno de nosotros aportará ideas creativas e innovadoras para el proyecto prototipado a realizarse dentro del curso . 
 </p>
-
-##¿Quiénes somos?
 <p align="center">
   <img src="https://github.com/lucero-zamora/Grupo3-FdD/blob/main/FdD/IMAGENES/imagen%20grupal.jpg" width="600" style="margin: auto;">
 </p>
 <blockquote>
-  <p>   Representación fotográfica  principal de los integrantes del grupo N° 03.Elaboración propia  </p>
+  <p>   Representación fotográfica  principal de los integrantes del grupo N° 03 elaboración propia.  </p>
 </blockquote>
-  
+ ## Información del Proyecto
+### Tema del [ODS 6](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Agua limpia y saneamiento
+<p align="justify">
+El Perú es un país que presenta una amplia variedad de recursos hídricos, pero a pesar de eso es uno de los que más sufre por escasez de agua en América Latina, por la mala distribución  geográfica de los recursos hídricos, el uso ineficiente de agua y la contaminación del agua .se tiene estimado que para el 2030, si el Perú sigue en  ese rumbo va a sufrir una crisis de agua(1).
+</p>
+
