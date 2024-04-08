@@ -43,6 +43,5 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
 | brenda | Coordinador de Diseño y Modelado 3D |  |  |
 | anjhy | Encargado de Investigación y Página Web | lucero-zamora| anjhy.zamora@upch.pe |
 |lila| Encargada de la Manufactura Digital | | lila.huanca@upch.pe |
-<a href="https://github.com/lucero-zamora/Grupo3-FdD/blob/main/FdD/entregables/01.Sobre_Nosotros.md"style="background: linear-gradient(45deg, #FFD700, #FF69B4, #1E90FF); color: black; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 14px; margin: 10px; cursor: pointer; border-radius: 50px; border: none; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'">Descubre más</a>
-</p>
+
 
