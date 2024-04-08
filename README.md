@@ -16,9 +16,7 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 ## Tabla de Contenido
   1. [¿Quiénes somos?](#quiénes-somos)
   2. [Información del Proyecto](#información-del-proyecto)
-  3. [Visión](Visión)
-  4. [Misión](Misión)
-  5. [Roles de los miembros](#roles-de-los-miembros)
+  3. [Roles de los miembros](#roles-de-los-miembros)
 
 ## ¿Quiénes somos?
 <p align="justify">
