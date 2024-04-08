@@ -40,8 +40,8 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
 | :------------: | :------------: | :------------: | :------------: |
 |bertil | Coordinadora General |  |  |
 | maycol | Encargado de Desarrollo Técnico y Prototipado |  |  |
-| brenda | Coordinador de Diseño y Modelado 3D |  |  |
-| anjhy | Encargado de Investigación y Página Web | lucero-zamora| anjhy.zamora@upch.pe |
+| Brenda Estefany Sanchez Ticcllasuca | Coordinador de Diseño y Modelado 3D |  |  |
+| Anjhy Lucero Zamora Sulca | Coordinadora del área de redacción y prototipado| lucero-zamora| anjhy.zamora@upch.pe |
 |lila| Encargada de la Manufactura Digital | | lila.huanca@upch.pe |
 
 
