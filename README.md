@@ -42,5 +42,6 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
 | maycol | Encargado de Desarrollo Técnico y Prototipado |  |  |
 | brenda | Coordinador de Diseño y Modelado 3D |  |  |
 | anjhy | Encargado de Investigación y Página Web | lucero-zamora| anjhy.zamora@upch.pe |
-|lila| Encargada de la Manufactura Digital | |  |
+|lila| Encargada de la Manufactura Digital | | lila.huanca@upch.pe |
+
 
