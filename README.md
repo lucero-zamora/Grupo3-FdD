@@ -13,6 +13,13 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
   <p>David Auris Villegas (20 de Marzo del 2024)  https://elmontonero.pe/columnas/educacion-y-dia-mundial-del-agua/</p>
 </blockquote>
 
+## Tabla de Contenido
+  1. [¿Quiénes somos?](#quiénes-somos)
+  2. [Información del Proyecto](#información-del-proyecto)
+  3. [Visión](Visión)
+  4. [Misión](Misión)
+  5. [Roles de los miembros](#roles-de-los-miembros)
+
 ## ¿Quiénes somos?
 <p align="justify">
  Somos un grupo de estudiantes entusiastas del curso de fundamentos de diseño, nos unimos con mucho compromiso y dedicación para adquirir conocimientos acerca de los conceptos generales del diseño donde cada uno de nosotros aportará ideas creativas e innovadoras para el proyecto prototipado a realizarse dentro del curso . 
