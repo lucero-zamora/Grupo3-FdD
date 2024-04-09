@@ -45,7 +45,7 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
 | :------------: | :------------: | :------------: | :------------: |
 |Bertil Vasthian Rodriguez Valderrama| Coordinador de la investigacion y gestor del proyecto | Vasthiann |Bertil.rodriguez@upch.pe  |
 | Maycol Anthony Condor Chamorro | Coordinador de electrónica y manufactura | 71383536| maycol.condor@upch.pe |
-| Brenda Estefany Sanchez Ticcllasuca | |  |  |
+| Brenda Estefany Sanchez Ticcllasuca |Coordinadora del área de selección de materiales  | 75499627  | brenda.sanchez@upch.pe |
 | Anjhy Lucero Zamora Sulca | Coordinadora del área de redacción y prototipado| lucero-zamora| anjhy.zamora@upch.pe |
 |Lila Zarai Huanca Ampuero| Coordinadora del área de programación y página web| | lila.huanca@upch.pe |
 
