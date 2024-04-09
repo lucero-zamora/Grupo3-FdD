@@ -44,7 +44,7 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
 | Miembro | Rol Desempeñado | GitHub | Correo |
 | :------------: | :------------: | :------------: | :------------: |
 |Bertil Vasthian Rodriguez Valderrama| Coordinador de la investigacion y gestor del proyecto | Vasthiann |Bertil.rodriguez@upch.pe  |
-| Maycol Anthony Condor Chamorro | Coordinador de electrónica y manufactura | 71383536| maycolcondor07@gmail.com |
+| Maycol Anthony Condor Chamorro | Coordinador de electrónica y manufactura | 71383536| maycol.condor@upch.pe |
 | Brenda Estefany Sanchez Ticcllasuca | |  |  |
 | Anjhy Lucero Zamora Sulca | Coordinadora del área de redacción y prototipado| lucero-zamora| anjhy.zamora@upch.pe |
 |Lila Zarai Huanca Ampuero| Coordinadora del área de programación y página web| | lila.huanca@upch.pe |
