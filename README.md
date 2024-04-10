@@ -13,6 +13,11 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
   <p>David Auris Villegas (20 de Marzo del 2024)  https://elmontonero.pe/columnas/educacion-y-dia-mundial-del-agua/</p>
 </blockquote>
 
+## Tabla de Contenido
+  1. [¿Quiénes somos?](#quiénes-somos)
+  2. [Información del Proyecto](#información-del-proyecto)
+  3. [Roles de los miembros](#roles-de-los-miembros)
+
 ## ¿Quiénes somos?
 <p align="justify">
  Somos un grupo de estudiantes entusiastas del curso de fundamentos de diseño, nos unimos con mucho compromiso y dedicación para adquirir conocimientos acerca de los conceptos generales del diseño donde cada uno de nosotros aportará ideas creativas e innovadoras para el proyecto prototipado a realizarse dentro del curso . 
@@ -38,9 +43,10 @@ Nuestra mira es contribuir a la salud y bienestar, para incentivar con calidad  
  ## Roles de los miembros
 | Miembro | Rol Desempeñado | GitHub | Correo |
 | :------------: | :------------: | :------------: | :------------: |
-|bertil | Coordinadora General |  |  |
-| maycol | Encargado de Desarrollo Técnico y Prototipado |  |  |
-| brenda | Coordinador de Diseño y Modelado 3D |  |  |
-| anjhy | Encargado de Investigación y Página Web | lucero-zamora| anjhy.zamora@upch.pe |
-|lila| Encargada de la Manufactura Digital | |  |
+|Bertil Vasthian Rodriguez Valderrama| Coordinador de la investigacion y gestor del proyecto | Vasthiann |Bertil.rodriguez@upch.pe  |
+| Maycol Anthony Condor Chamorro | Coordinador de electrónica y manufactura | 71383536| maycol.condor@upch.pe |
+| Brenda Estefany Sanchez Ticllasuca |Coordinadora del área de selección de materiales  | brenda19  | brenda.sanchez@upch.pe |
+| Anjhy Lucero Zamora Sulca | Coordinadora del área de redacción y prototipado| lucero-zamora| anjhy.zamora@upch.pe |
+|Lila Zarai Huanca Ampuero| Coordinadora del área de programación y página web| Lila-Huanca| lila.huanca@upch.pe |
+
 
