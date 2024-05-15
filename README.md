@@ -1,4 +1,4 @@
-# GRUPO TRES FUNDAMENTOS DE DISEÑO
+
 <p align="left">
   <img src="https://semanadelcannabis.cayetano.edu.pe/assets/img/logo-upch.png" width="150">
     <h1 align="center">¡BIENVENIDOS A GUARDIANSOIL!</h1>
@@ -30,9 +30,9 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 </blockquote>
 
 ## Información del Proyecto
-### Tema del [ODS 6](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Agua limpia y saneamiento
+### Tema del [ODS 15](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Agua limpia y saneamiento
 <p align="justify">
-El Perú es un país que presenta una amplia variedad de recursos hídricos, pero a pesar de eso es uno de los que más sufre por escasez de agua en América Latina, por la mala distribución  geográfica de los recursos hídricos, el uso ineficiente de agua y la contaminación del agua .se tiene estimado que para el 2030, si el Perú sigue en  ese rumbo va a sufrir una crisis de agua(1).
+ La degradación del suelo debido a la deforestación, la sobreexplotación agrícola y la mala gestión de residuos está en aumento. Esto afecta la actividad agrícola y la producción de bienes y servicios, especialmente en zonas desfavorecidas(1).
 </p>
 
 ### Visión:
