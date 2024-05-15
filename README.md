@@ -30,7 +30,7 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 </blockquote>
 
 ## Información del Proyecto
-### Tema del [ODS 15](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Agua limpia y saneamiento
+### Tema del [ODS 15](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Vida de ecosistemas terrestres
 <p align="justify">
  La degradación del suelo debido a la deforestación, la sobreexplotación agrícola y la mala gestión de residuos está en aumento. Esto afecta la actividad agrícola y la producción de bienes y servicios, especialmente en zonas desfavorecidas(1).
 </p>
