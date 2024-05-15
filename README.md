@@ -24,11 +24,6 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 <p align="justify">
  Somos un grupo de estudiantes entusiastas del curso de fundamentos de diseño, nos unimos con mucho compromiso y dedicación para adquirir conocimientos acerca de los conceptos generales del diseño donde cada uno de nosotros aportará ideas creativas e innovadoras para el proyecto prototipado a realizarse dentro del curso . 
 </p>
-<p align="center">
-  <img src="https://github.com/lucero-zamora/Grupo3-FdD/blob/main/FdD/IMAGENES/imagen%20grupal.jpg" width="600" style="margin: auto;">
-  Esta carpeta alberga los elementos clave que soportan la estructura y desarrollo de nuestro proyecto,el cual contiene los elementos críticos que aseguran la eficiencia y el rendimiento óptimo de nuestras soluciones. Específicamente, los elementos incluidos en esta carpeta son:
-
-</p>
 <blockquote>
   <p>   Representación fotográfica  principal de los integrantes del grupo N° 03 elaboración propia.  </p>
 </blockquote>
@@ -36,10 +31,6 @@ Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena 
 ## Información del Proyecto
 ### Tema del [ODS 15](https://www.un.org/sustainabledevelopment/es/water-and-sanitation/) : Vida de ecosistemas terrestres
 
-## Entregables
-Encontraran los productos o resultados específicos que el equipo se compromete a entregar semanalmente.
-
-## Hitos
 <p align="justify">
  La degradación del suelo debido a la deforestación, la sobreexplotación agrícola y la mala gestión de residuos está en aumento. Esto afecta la actividad agrícola y la producción de bienes y servicios, especialmente en zonas desfavorecidas(1).
 Haremos dos presentaciones en diferentes fechas. Las cuales representan la finalización exitosa de tareas semanales. 
