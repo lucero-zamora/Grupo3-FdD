@@ -5,6 +5,7 @@
 Somos un grupo de estudiantes con las ganas de aportar nuestro granito de arena en el mundo, buscamos desarrollar e implementar soluciones innovadoras y creativas de diferentes  maneras,para así disminuir  una de las problemáticas ambientales que afecta cada vez más al mundo.
 
 ![suelos](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/4d5b8ddf-a42d-4030-ad56-183591032ae1)
+
 Recuperado el 15 de mayo de 2024, de https://www.cndh.org.mx/noticia/dia-internacional-de-la-conservacion-del-suelo
   
 ## Tabla de Contenido
