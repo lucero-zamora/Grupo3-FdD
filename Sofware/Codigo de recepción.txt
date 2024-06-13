@@ -1,1 +1,81 @@
+#include <DHT.h>
+#include <ESP8266WiFi.h>
 
+#define DHTPIN 2       // Pin donde está conectado el sensor DHT
+#define DHTTYPE DHT22  // Cambiar a DHT11 si usas DHT11
+DHT dht(DHTPIN, DHTTYPE);
+
+const char* ssid = "TU_SSID";
+const char* password = "TU_PASSWORD";
+const char* server = "TU_SERVIDOR"; // Ejemplo: "192.168.1.100"
+
+// Pines para sensores
+#define HUMIDITY_PIN A0
+#define NPK_PIN A1
+
+void setup() {
+    Serial.begin(9600);
+    dht.begin();
+
+    // Conectar a WiFi
+    WiFi.begin(ssid, password);
+    while (WiFi.status() != WL_CONNECTED) {
+        delay(1000);
+        Serial.println("Conectando a WiFi...");
+    }
+    Serial.println("Conectado a WiFi");
+
+    Serial.println("Monitoreo de NPK, humedad y temperatura iniciado.");
+}
+
+void loop() {
+    // Leer datos de sensores
+    float h = dht.readHumidity();
+    float t = dht.readTemperature();
+    int humidityValue = analogRead(HUMIDITY_PIN);
+    int npkValue = analogRead(NPK_PIN);
+    
+    // Calibrar NPK
+    float voltageNPK = npkValue * (5.0 / 1024.0);
+    float npk = map(voltageNPK, 0, 5, 0, 100);  // Ejemplo de mapeo, ajustar según sensor
+
+    // Imprimir valores leídos
+    Serial.print("Humedad del suelo: ");
+    Serial.println(humidityValue);
+    Serial.print("Humedad ambiente: ");
+    Serial.print(h);
+    Serial.print(" %\t");
+    Serial.print("Temperatura: ");
+    Serial.print(t);
+    Serial.print(" *C\t");
+    Serial.print("NPK: ");
+    Serial.println(npk);
+
+    // Enviar datos al servidor
+    if (WiFi.status() == WL_CONNECTED) {
+        WiFiClient client;
+        if (client.connect(server, 80)) {
+            String url = "/update?";
+            url += "humidity_soil=" + String(humidityValue);
+            url += "&humidity=" + String(h);
+            url += "&temperature=" + String(t);
+            url += "&npk=" + String(npk);
+
+            client.print(String("GET ") + url + " HTTP/1.1\r\n" +
+                         "Host: " + server + "\r\n" +
+                         "Connection: close\r\n\r\n");
+            client.stop();
+        }
+    }
+
+    // Determinar estado del suelo según humedad
+    if (humidityValue >= 0 && humidityValue <= 300) {
+        Serial.println("Sensor en suelo seco");  
+    } else if (humidityValue > 301 && humidityValue <= 700) {
+        Serial.println("Sensor en suelo húmedo");
+    } else if (humidityValue >= 701) {
+        Serial.println("Sensor en agua");
+    }
+
+    delay(10000); // Esperar 10 segundos antes de la próxima lectura
+}
