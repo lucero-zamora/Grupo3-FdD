@@ -1,3 +1,4 @@
+```
 #include <DHT.h>
 #include <ESP8266WiFi.h>
 
@@ -79,3 +80,4 @@ void loop() {
 
     delay(10000); // Esperar 10 segundos antes de la próxima lectura
 }
+```
