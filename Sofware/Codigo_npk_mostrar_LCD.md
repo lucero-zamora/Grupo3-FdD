@@ -1,3 +1,4 @@
+```
 /*
   LCD 10 X 4 Con Luz De Fondo Azul Con Interfaz I2C
   NPK_lcd
@@ -49,4 +50,4 @@ void loop() {
 
   delay(1000); // Esperar 1 segundo antes de la siguiente lectura
 }
-
+```
