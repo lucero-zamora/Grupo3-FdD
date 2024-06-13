@@ -1,6 +1,6 @@
 /*
   LCD 10 X 4 Con Luz De Fondo Azul Con Interfaz I2C
-Temperatura_lcd
+  Temperatura_lcd
 */
 
 #include <LiquidCrystal_I2C.h> // Librería para LCD I2C
