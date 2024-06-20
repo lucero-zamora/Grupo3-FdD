@@ -1,5 +1,3 @@
-```
-
 #include <ESP8266WiFi.h>
 #include <DHT.h>
 #include <Wire.h>
@@ -88,4 +86,3 @@ void loop() {
   delay(5000);  // Esperar 5 segundos antes de la siguiente lectura
 }
 
-```
