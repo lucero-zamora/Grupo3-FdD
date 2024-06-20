@@ -3,6 +3,10 @@
   <h1 align="center">RETOS Y LIMITACIONES</h1>
 </p>
 
+  ### 1. RETOS
+  
+  
+
 
 
 
