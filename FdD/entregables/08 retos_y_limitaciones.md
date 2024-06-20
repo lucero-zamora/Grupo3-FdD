@@ -15,6 +15,8 @@
 
 
 
+![Beige minimalist photo collage (1)](https://github.com/lucero-zamora/Grupo3-FdD/assets/166184502/d4d3e04f-062a-4cc0-9fe4-585a95cd5a99)
+
 
 <h2 align = "left">- Prototipo</h2>
   
