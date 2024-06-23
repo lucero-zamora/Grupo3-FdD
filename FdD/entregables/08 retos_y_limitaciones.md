@@ -4,7 +4,8 @@
 </p>
 
   ### 1. RETOS
-![retos y limitaciones  (2)](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/d0c09c92-6ba7-47cf-be93-f7db5ff9bdda)
+
+![Uploading retos y limitaciones .jpg…]()
 
   ### 2. LIMITACIONES
   ![Uploading retos y limitaciones  (2).jpg…]()
