@@ -9,7 +9,7 @@
 
 
   ### 2. LIMITACIONES
-  ![Uploading retos y limitaciones  (2).jpg…]()
+  ![retos y limitaciones ](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/31611d12-914e-4d00-bc23-f8912657d1af)
 
   ![1](https://github.com/lucero-zamora/Grupo3-FdD/assets/165921490/43f0b894-ba8e-422c-8bee-bcb347db02f3)
 
