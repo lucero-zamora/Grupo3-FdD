@@ -4,14 +4,17 @@
 </p>
 
   ### 1. RETOS
-
-![Uploading retos y limitaciones .png…]()
-
+  
+  ![retos y limitaciones  (1)](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/c32066c4-1fbd-44d1-8931-1d397f465934)
 
   ### 2. LIMITACIONES
+  
   ![retos y limitaciones ](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/31611d12-914e-4d00-bc23-f8912657d1af)
 
-  ![1](https://github.com/lucero-zamora/Grupo3-FdD/assets/165921490/43f0b894-ba8e-422c-8bee-bcb347db02f3)
+  ### 3.Propuestas de solución a nuestras Limitaciones 
+  
+  ![retos y limitaciones  (2)](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/22dc7f85-5ef5-496c-9a28-450c74d4a465)
+
 
 <h1 align = "center">Iteración 2</h1>
 <h2 align = "left">- Reporte de pruebas</h2>
