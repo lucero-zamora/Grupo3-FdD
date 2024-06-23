@@ -11,7 +11,7 @@
   
   ![retos y limitaciones ](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/31611d12-914e-4d00-bc23-f8912657d1af)
 
-  ### 3.Propuestas de solución a nuestras Limitaciones 
+  ### 3.PROPUESTAS DE SOLUCIÓN A NUESTRAS LIMIATCIONES 
   
   ![retos y limitaciones  (2)](https://github.com/lucero-zamora/Grupo3-FdD/assets/165912612/22dc7f85-5ef5-496c-9a28-450c74d4a465)
 
