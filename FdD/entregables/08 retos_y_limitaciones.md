@@ -5,7 +5,8 @@
 
   ### 1. RETOS
 
-![Uploading retos y limitaciones .jpg…]()
+![Uploading retos y limitaciones .png…]()
+
 
   ### 2. LIMITACIONES
   ![Uploading retos y limitaciones  (2).jpg…]()
