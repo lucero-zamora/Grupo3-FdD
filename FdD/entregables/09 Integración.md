@@ -1,5 +1,7 @@
 ![Gráfico Tabla Comparativa Ordenado Sencillo Azul (1)](https://github.com/lucero-zamora/Grupo3-FdD/assets/166184502/12081ff8-5d5c-4553-9245-c77e7fdd01a3)
 
+<h2 align = "left">Verificación de Diseño </h2>
+
 | **REQUERIMIENTO DE DISEÑO (INICIALES)**                    | **REQUERIMIENTO DE DISEÑO (FINALES)**                           | **RESULTADO DE TEST**                                                                                           |
 |------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Inicializar   de manera correcta y 
