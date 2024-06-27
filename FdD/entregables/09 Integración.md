@@ -9,3 +9,12 @@
 | Recibe datos del transmisor LoRa.                          | Recepción de datos precisa mediante LoRa.                       | Algunos errores en la recepción de datos del transmisor LoRa.                                                  |
 | Envía correctamente los datos recibidos a Firebase.        | Datos enviados a Firebase con integridad.                       | Algunos errores en el envío de datos hacia la base de datos en Firebase.                                        |
 | Visualiza los datos en la aplicación.                      | Datos presentados de manera clara y accesible en la app.        | Pendiente de prueba.                                                                                           |
+
+
+<h2 align = "left">Verificación de Diseño (Hardware)</h2>
+
+| **REQUERIMIENTOS DE DISEÑO INICIALES**                     | **RESULTADO DE TEST**                                                                                           |
+|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Los componentes deben encajar bien y estar bien sujetos.   | Los componentes encajan correctamente y están bien sujetos, garantizando la estabilidad y el funcionamiento.    |
+| El dispositivo debe ser de fácil transporte y manejo.      | El dispositivo es ligero y portátil, facilitando su transporte y manejo en diferentes entornos.                 |
+| El sistema debe ser independiente y autónomo con energía solar.    | El sistema funciona de manera autónoma con una fuente de energía solar, sin necesidad de intervención constante.|
